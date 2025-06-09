@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\az\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\controllers\\gymlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\controllers\\gymlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\models\\gymlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\models\\gymlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|d:\\az\\consoleapp4\\consoleapp4\\data\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B16899-4719-4284-8103-4E6CA4455E6C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\data\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ConsoleApp4\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:51:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoachController.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\CoachController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Controllers\\CoachController.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\CoachController.cs",
+              "RelativeToolTip": "ConsoleApp4\\Controllers\\CoachController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:50:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GymContext.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\GymContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\GymContext.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\GymContext.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\GymContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:57:49.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\Models\\Coach.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Coach.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\Models\\Coach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:38:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\Models\\Client.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:37:47.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GymLocationController.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\GymLocationController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Controllers\\GymLocationController.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\GymLocationController.cs",
+              "RelativeToolTip": "ConsoleApp4\\Controllers\\GymLocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:52:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "ConsoleApp4\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:52:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\Configuration.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Configuration.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:36:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\Models\\Subscription.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\Subscription.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\Models\\Subscription.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:38:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GymLocation.cs",
+              "DocumentMoniker": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\GymLocation.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Data\\Models\\GymLocation.cs",
+              "ToolTip": "D:\\az\\ConsoleApp4\\ConsoleApp4\\Data\\Models\\GymLocation.cs",
+              "RelativeToolTip": "ConsoleApp4\\Data\\Models\\GymLocation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:37:08.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
